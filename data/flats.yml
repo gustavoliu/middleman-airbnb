@@ -1,0 +1,22 @@
+# data.flats returns an array of hashes
+
+- owner: 'Sébastien'
+  avatar: 'ssaunier'
+  city: 'Paris'
+  country: 'France'
+  description: 'Charming room in Montmartre'
+  rating: 4
+
+- owner: 'Boris'
+  avatar: 'papillard'
+  city: 'Tokyo'
+  country: 'Japan'
+  description: 'Small flat in Tokyo'
+  rating: 3
+
+- owner: 'Romain'
+  avatar: 'tgenaitay'
+  city: 'London'
+  country: 'UK'
+  description: 'Nice flat in Piccadily'
+  rating: 5
